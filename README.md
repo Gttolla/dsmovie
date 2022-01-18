@@ -12,7 +12,7 @@
       <div>
          <b>First start the database on heroku</b>
       </div>
-      <a href="https://gttollamovies.netlify.app">
+      <a href="https://gttolla-dsmovie.herokuapp.com">
         <p>http://DSMovie-Heroku/before</p>
       </a>
   </li>
